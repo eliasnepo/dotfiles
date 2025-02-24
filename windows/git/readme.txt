@@ -1,1 +1,0 @@
-paste bzip2.dll and zip in C:\Program Files\Git\mingw64\bin
