@@ -22,5 +22,7 @@ create_symlink ~/workspaces/dotfiles/tmux/.tmux.conf ~/.tmux.conf
 create_symlink ~/workspaces/dotfiles/git/.gitconfig ~/.gitconfig
 create_symlink ~/workspaces/dotfiles/zsh/.zshrc ~/.zshrc
 create_symlink ~/workspaces/dotfiles/ideavim/.ideavimrc ~/.ideavimrc
+create_symlink ~/workspaces/dotfiles/nvim ~/.config/nvim
+
 
 echo "Symlink creation completed!"
